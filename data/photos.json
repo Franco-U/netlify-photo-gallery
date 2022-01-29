@@ -11,7 +11,14 @@
     { "name": "Latte art", "src": "/images/latte-art.jpg" },
     { "name": "Noodles", "src": "/images/noodles.jpg" },
     { "name": "Blokopi", "src": "/images/Blokopi - Above the fold.jpg" },
-    { "name": "AMZ", "src": "/images/amz1.jpg" },
-    { "name": "AMZ2", "src": "/images/amz2.jpg" },
+    { "name": "account overview", "src": "/images/account overview.jpg" },
+    { "name": "Account success", "src": "/images/account success.jpg" },
+    { "name": "Dashboard", "src": "/images/dashboard.jpg" },
+    { "name": "enroll pin", "src": "/images/enroll pin.jpg" },
+    { "name": "Login", "src": "/images/login.jpg" },
+    { "name": "mobile verification", "src": "/images/mobile verification.jpg" },
+    { "name": "Touch ID modal", "src": "/images/touch ID modal.jpg" },
+    { "name": "verify account", "src": "/images/verify account.jpg" },
+    { "name": "Welcome screen", "src": "/images/Welcome screen.jpg" },
     { "name": "Branches", "src": "/images/branches.png" }
 ]
